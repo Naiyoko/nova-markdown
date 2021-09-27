@@ -679,3 +679,22 @@ ul.level3 > li > a.sidebar-item.active
 .inheritance .level5 {
     margin-left: 5em;
 }
+
+#toc_filter_input {
+    color: white;
+    background-color: #36393f;
+    border-bottom: 1px solid #eaeaea;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 5px 3px 5px 3px;
+}
+
+#toc_filter_input:focus-visible {
+    border-bottom: 2px solid #eaeaea;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
