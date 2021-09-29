@@ -13,7 +13,7 @@
 
 ![EditDesc](https://cdn.discordapp.com/attachments/711551301334597662/892792864910757928/unknown.png)
 
-5. Let's do one more, to give you an example on how to use what are called **variables**. Variables are exactly what the word describes - they change, depending on, well, variables. For example, let's edit the description again. Let's run `editembed EmbedName title Thank you for partnering, $(user.nick)!`. What this will do, is replace `$(user.nick)` with the name of whoever posted the partnership/affiliate as shown **here**:
+5. Let's do one more, to give you an example on how to use what are called **variables**. Variables are exactly what the word describes - they change, depending on, well, variables. For example, let's edit the title of our embed. Let's run `editembed EmbedName title Thank you for partnering, $(user.nick)!`. What this will do, is replace `$(user.nick)` with the name of whoever posted the partnership/affiliate as shown **here**:
 
 ![VarExample](https://cdn.discordapp.com/attachments/711551301334597662/892794745582141450/unknown.png)
 
