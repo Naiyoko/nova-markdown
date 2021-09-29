@@ -24,17 +24,17 @@ Element | Accepted value
 
 3. So let's edit one as an example. Run `[prefix]editembed EmbedName description Test reply here! Mentioning roles or users does not work inside of embeds`. As you can see, when we run `[prefix]viewembed EmbedName`, we can see the description we just edited:
 
-![EditDesc](https://cdn.discordapp.com/attachments/711551301334597662/892792864910757928/unknown.png)
+![EditDesc](../images/creply_edit_desc.png)
 
 4. Let's do one more, to give you an example on how to use what are called **variables**. Variables are exactly what the word describes - they change, depending on, well, variables. For example, let's edit the description again. Let's run `[prefix]editembed EmbedName title Thank you for partnering, $(user.nick)!`. What this will do, is replace `$(user.nick)` with the name of whoever posted the partnership/affiliate as shown **here**:
 
-![VarExample](https://cdn.discordapp.com/attachments/711551301334597662/892794745582141450/unknown.png)
+![VarExample](../images/creply_var_example.png)
 
 All variables work the same way - you can view all available variables and see a description of what they do [here](../commands/variables.md) or by running `[prefix]help variables`.
 
 You can see which elements show on the embed via a color-coded guide **here**:
 
-![ColorCode](https://cdn.discordapp.com/attachments/731631449194627143/743858854466551959/example_2.png)
+![ColorCode](../images/how_to_embed.png)
 
 # Telling Nova how to use your customized embed.
 

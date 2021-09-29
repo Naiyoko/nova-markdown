@@ -10,7 +10,7 @@ This tutorial will show you how to set up basic functionality with Nova. This sh
 
 4. Try sending a Discord invite link in your partnership and affiliate channel (**Can not be your own server**). You can use `discord.gg/test` - you should get a response that looks like **this**:
 
-![EmbedScreenshot](https://cdn.discordapp.com/attachments/589603067146534913/891065990727733309/unknown.png)
+![EmbedScreenshot](../images/get_started_embed.png)
 
 5. Lastly, you can have Nova count weekly partnerships for each user as well - enable it by running `[prefix]setautoweekly on`.
 
