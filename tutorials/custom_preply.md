@@ -1,5 +1,5 @@
 # Customizing your partnership & affiliate responses.
-##### This tutorial will show you how to customize each aspect of Nova's partnership and affiliate replies. Add the prefix to the beginning of each command in this tutorial.
+#### This tutorial will show you how to customize each aspect of Nova's partnership and affiliate replies. Add the prefix to the beginning of each command in this tutorial.
 
 1. First, create an embed. You can create one using `createembed EmbedName`. Note that your embed name will be **case-sensitive**.
 
