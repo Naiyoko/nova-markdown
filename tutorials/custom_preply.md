@@ -24,7 +24,7 @@ All variables work the same way - you can view all available variables and see a
 ![ColorCode](https://cdn.discordapp.com/attachments/731631449194627143/743858854466551959/example_2.png)
 
 # Telling Nova how to use your customized embed.
-##### Now that you've created your embed, we need to tell Nova to use it.
+#### Now that you've created your embed, we need to tell Nova to use it.
 
 1. For partnerships, run `setcustomreply partnersuccess Mentions work in this section! %% EmbedName`.
 
