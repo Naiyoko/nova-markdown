@@ -1,2 +1,6 @@
 - name: Home
   href: index.md
+- name: Basic Setup
+  href: get_started.md
+- name: Customizing Your Partnership & Affiliate Responses
+  href: custom_reply.md

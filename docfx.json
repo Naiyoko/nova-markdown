@@ -26,6 +26,13 @@
       }
     ],
     "dest": "_site",
+    "globalMetadata": {
+      "_appFooter": "© 2020-2021 Luminous Nova Developers",
+      "_appName": "Luminous Nova Docs",
+      "_appLogoPath": "images/logo.png",
+      "_appFaviconPath": "images/logo.png",
+      "_enableSearch": "true"
+    },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
