@@ -1,5 +1,5 @@
 # Basic Setup
-This tutorial will show you how to set up basic functionality with Nova. This should take **less than 5m**.
+#### This tutorial will show you how to set up basic functionality with Nova. This should take **less than 5m**.
 1. If you haven't already, invite the bot [here](https://top.gg/bot/711428816127393844). The default prefix is `l?`. **Add the prefix to the beginning of each command** in this tutorial.
 
 2. If you have a **bot** role in your server, add it to Nova so it has permissions to speak in the channel you normally set up bots in.
