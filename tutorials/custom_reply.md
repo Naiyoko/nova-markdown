@@ -1,4 +1,4 @@
-# Customizing your partnership & affiliate responses.
+# Customizing your partnership & affiliate responses / How to make an embed
 
 This tutorial will show you how to customize each aspect of Nova's partnership and affiliate replies. Add the server prefix to the beginning of each command in this tutorial.
 
