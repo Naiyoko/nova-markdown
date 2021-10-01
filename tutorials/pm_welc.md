@@ -1,6 +1,7 @@
 # Making a PM/AM welcome message
 #### This will guide you through making fully customizable welcome message for AMs & PMs that greets them. This is useful for pointing them to your blacklist channel, requirements, ad channel, etc.
 > [!NOTE] The PM/AM welcome message is automatically posted when you add a PM/AM using Nova's `[prefix]addmanager` command. **(hyperlink here in the future when I write the tutorial for that!)**
+#
 1. First, let's create an embed just like we did in our **[custom reply tutorial](https://github.com/Naiyoko/nova-markdown/blob/master/tutorials/custom_reply.md)**. The steps for creating & editing the embed are **exactly the same**.
 
 2. Next, let's create a new PM/AM welcome channel. In the per-channel permission settings, add your **PM** role, your **AM** role, and **Nova**, and then set them up so they have access to that channel.
