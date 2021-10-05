@@ -11,4 +11,4 @@ Nova is a Discord bot designed around managing partnerships and affiliates betwe
 * Configurable, automatically enforced partnership requirements
 
 #
-[YouTube](https://www.youtube.com/channel/UC-qb1IXMYrBi1KMOCFcbtag/videos) | [Support Server](https://discord.gg/pPpQHkC) | [Invite Nova](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=470150208&scope=bot%20applications.commands)
+### [YouTube](https://www.youtube.com/channel/UC-qb1IXMYrBi1KMOCFcbtag/videos) | [Support Server](https://discord.gg/pPpQHkC) | [Invite Nova](https://discord.com/api/oauth2/authorize?client_id=711428816127393844&permissions=470150208&scope=bot%20applications.commands)
