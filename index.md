@@ -4,7 +4,6 @@ Nova is a Discord bot designed around managing partnerships and affiliates betwe
 ## Bot Features
 * Weekly & all-time partnership and affiliate tracking
 * Easily hire PMs/AMs with one command (Includes autorole and auto nickname)
-* Configurable partnership requirements for both partnerships and affiliates
 * Customizable auto-responses for partnerships and affiliates
 * Server blacklist support
 * Head AM/PM + `setbotmanager` support
