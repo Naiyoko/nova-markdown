@@ -1,6 +1,5 @@
 # Basic Setup
-
-This tutorial will show you how to set up basic functionality with Nova. This should take **less than 5m**.
+#### This tutorial will show you how to set up basic functionality with Nova. This should take **less than 5m**.
 
 1. If you haven't already, invite the bot [here](https://top.gg/bot/711428816127393844). The default prefix is `l?`. **Add the prefix to the beginning of each command** in this tutorial.
 
@@ -14,5 +13,5 @@ This tutorial will show you how to set up basic functionality with Nova. This sh
 
 5. Lastly, you can have Nova count weekly partnerships for each user as well - enable it by running `[prefix]setautoweekly on`.
 
-> [!NOTE]
-> If you have any issues following this tutorial, you can check our [FAQ](../faq.md), or join our [support server](https://discord.gg/cAKmRVrsjR) for help.
+##
+***If you have any issues following this tutorial, you can check our [FAQ](../faq.md), or join our [support server](https://discord.gg/cAKmRVrsjR) for help.***
