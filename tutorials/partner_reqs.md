@@ -20,6 +20,16 @@
 
 #
 ## Setting a cooldown requirement to partner with the same server twice
-#### This section will show you how to set a minimum cooldown time a user must wait before partnering with the same server twice
+#### This section will show you how to set a minimum cooldown time a user must wait before partnering with the same server twice.
 
 > [!WARNING] The `/` indicates instructions to use **one or the other** in your command, **not both**.
+
+> [!NOTE] The numbers in our `setcooldown` commands are in **minutes**.
+
+1. So, we can set cooldowns separately between our partnerships and affiliates. The format for the command is `[prefix]setcooldown partner`/`affiliate 30`.
+
+2. So, if I run `[prefix]setcooldown partner 30`, partnership managers can not post the same server more than **one time** every **30** minutes:
+
+![p_cooldownex](../images/p_cooldownex.png)
+
+> [!NOTE] You can turn off cooldown by running `[prefix] setcooldown partner`/`affiliate 0`.
