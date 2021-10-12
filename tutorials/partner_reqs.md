@@ -15,3 +15,11 @@
 2. So for example, let's set a member requirement of 60. We can do that using `[prefix]setmemberreq partner`/`affiliate 60`.
 
 3. Now, if a partnership or affiliate is posted with a server below 60 members, by default, Nova will ping them with a message telling them that the server doesn't meet your member requirements. This will also not award them a point for that partnership.
+
+![p_memreqex](../images/p_memreq.png)
+
+#
+## Setting a cooldown requirement to partner with the same server twice
+#### This section will show you how to set a minimum cooldown time a user must wait before partnering with the same server twice
+
+> [!WARNING] The `/` indicates instructions to use **one or the other** in your command, **not both**.
