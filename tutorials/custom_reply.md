@@ -50,3 +50,5 @@ Now, go ahead and post an invite link in your partnership and/or affiliate chann
 
 > [!WARNING]
 > Do not use your own servers link! By default, Nova is configured for self-link detection. You can use `discord.gg/test` or any link you see fit.
+
+> ***If you have any issues following this tutorial, you can check our [FAQ](../faq.md), or join our [support server](https://discord.gg/cAKmRVrsjR) for help.***

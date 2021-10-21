@@ -1,5 +1,11 @@
 /* Discord Style */
 
+@font-face{font-family:Whitney;src:local("Whitney"),url("../fonts/whitney-300.woff2"),url("../fonts/whitney-300.woff");font-style:normal;font-weight:300;font-display:swap;}
+@font-face{font-family:Whitney;src:local("Whitney"),url("../fonts/whitney-400.woff2"),url("../fonts/whitney-400.woff");font-style:normal;font-weight:400;font-display:swap;}
+@font-face{font-family:Whitney;src:local("Whitney"),url("../fonts/whitney-500.woff2"),url("../fonts/whitney-500.woff");font-style:normal;font-weight:500;font-display:swap;}
+@font-face{font-family:Whitney;src:local("Whitney"),url("../fonts/whitney-600.woff2"),url("../fonts/whitney-600.woff");font-style:normal;font-weight:600;font-display:swap;}
+@font-face{font-family:Whitney;src:local("Whitney"),url("../fonts/whitney-700.woff2"),url("../fonts/whitney-700.woff");font-style:normal;font-weight:700;font-display:swap;}
+
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -34,7 +40,7 @@ html, body
 {
     padding: 0;
     margin: 0;
-    font: 15px/150% 'Roboto', sans-serif;
+    font: 15px/150% 'Whitney', 'Open Sans', 'Roboto', sans-serif;
     overflow: hidden;
     color: var(--text-color);
     background-color: var(--main-bg-color);
@@ -69,7 +75,7 @@ h3
 {
     margin-block-start: 1em;
     font-weight: 300;
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: var(--h3-color);
     margin-block-start: 3em;
 }
@@ -533,6 +539,7 @@ code
     background-color: var(--code-bg-color);
     padding: 2px 4px;
     border-radius: 4px;
+    font: 15px/150% 'Consolas', 'Inconsolata', "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
 }
 
 .hljs 

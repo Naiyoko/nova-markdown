@@ -2,5 +2,13 @@
   href: index.md
 - name: Basic Setup
   href: get_started.md
+- name: Changing Nova's prefix
+  href: setprefix.md
 - name: Customizing Your Partnership & Affiliate Responses
   href: custom_reply.md
+- name: Hiring PMs & AMs with one command
+  href: addmanager.md
+- name: Making a PM/AM welcome message
+  href: pm_welc.md
+- name: Setting up partnership requirements
+  href: partner_reqs.md
