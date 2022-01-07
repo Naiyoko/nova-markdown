@@ -1,0 +1,6 @@
+- name: Terms of Service
+  href: tos.md
+- name: Privacy Policy
+  href: privacy.md
+- name: DMCA Takedown Policy
+  href: dmca.md

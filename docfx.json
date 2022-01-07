@@ -3,6 +3,14 @@
     "content": [
       {
         "files": [
+          "legal/**.md",
+          "legal/**/toc.yml",
+          "toc.yml",
+          "*.md"
+        ]
+      },
+      {
+        "files": [
           "tutorials/**.md",
           "tutorials/**/toc.yml",
           "toc.yml",

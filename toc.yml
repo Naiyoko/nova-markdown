@@ -1,10 +1,10 @@
 - name: FAQ
   href: faq.md
-- name: Legal Notice
-  href: legal.md
 - name: Tutorials
   href: tutorials/
 - name: Bot Commands
   href: commands/
 - name: Changelog
   href: changelog.md
+- name: Legal Notice
+  href: legal/

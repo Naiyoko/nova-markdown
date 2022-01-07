@@ -1,14 +1,16 @@
 - name: Home
   href: index.md
-- name: Basic Setup
+- name: Migrating to Nova 2.0.0
+  href: migrating.md
+- name: Basic Setup (old)
   href: get_started.md
-- name: Changing Nova's prefix
+- name: Changing Nova's prefix (old)
   href: setprefix.md
-- name: Customizing Your Partnership & Affiliate Responses
+- name: Customizing Your Partnership & Affiliate Responses (old)
   href: custom_reply.md
-- name: Hiring PMs & AMs with one command
+- name: Hiring PMs & AMs with one command (old)
   href: addmanager.md
-- name: Making a PM/AM welcome message
+- name: Making a PM/AM welcome message (old)
   href: pm_welc.md
-- name: Setting up partnership requirements
+- name: Setting up partnership requirements (old)
   href: partner_reqs.md

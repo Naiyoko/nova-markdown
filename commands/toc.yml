@@ -1,4 +1,18 @@
 - name: Home
   href: index.md
+- name: Setup Module
+  href: setup.md
+- name: Partnership Module
+  href: partnership.md
+- name: Embed Module
+  href: embed.md
+- name: Utilities Module
+  href: utilities.md
+- name: Other Commands
+  href: others.md
+- name: Context Menu
+  href: context_menu.md
+- name: Reply Options and Names
+  href: reply_options.md
 - name: Variables
   href: variables.md

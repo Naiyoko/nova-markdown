@@ -74,19 +74,20 @@ h1, h2
 h3 
 {
     margin-block-start: 1em;
-    font-weight: 300;
-    font-size: 1.3em;
+    font-weight: 500;
+    font-size: 1.2em;
     color: var(--h3-color);
-    margin-block-start: 3em;
+    margin-block-start: 1.5em;
 }
 
 h4 
 {
     opacity: 1;
     color: var(--h4-color);
-    font-size: large;
+    font-size: 0.8em;
     border-bottom: 2px solid var(--separator-color);
-    margin: 20px 0 0 0;
+    margin: 1em 0 0 0;
+    text-transform: uppercase;
 }
 
 
@@ -115,7 +116,7 @@ ul
 
 ul, ol 
 {
-    padding-inline-start: 3em;
+    padding-inline-start: 1.5em;
 }
 
 ul.level1
@@ -380,7 +381,7 @@ span.sidebar-item
 .table-responsive 
 {
     overflow-x: auto;
-    margin-bottom: 64px;
+    margin-bottom: 2em;
 }
 
 table 
@@ -539,7 +540,7 @@ code
     background-color: var(--code-bg-color);
     padding: 2px 4px;
     border-radius: 4px;
-    font: 15px/150% 'Consolas', 'Inconsolata', "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+    font: 13px/130% 'Consolas', 'Inconsolata', "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
 }
 
 .hljs 
