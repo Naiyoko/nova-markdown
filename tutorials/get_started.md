@@ -14,5 +14,5 @@ This tutorial will show you how to set up basic functionality with Nova.
 
 5. Lastly, you can have Nova count weekly partnerships for each user as well - enable it by running `[prefix]set autoweekly on`.
 
-##
+
 > ***If you have any issues following this tutorial, you can check our [FAQ](../faq.md), or join our [support server](https://discord.gg/cAKmRVrsjR) for help.***
